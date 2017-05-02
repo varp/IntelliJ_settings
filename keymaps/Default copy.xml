@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Macro.assoc_array_arrow">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="Macro.object_accessor">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+</keymap>
