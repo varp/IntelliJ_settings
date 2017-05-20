@@ -1,5 +1,19 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="FileChooser.GotoProject" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Settings Group" />
+      <path value="Mark Directory as" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Phing Targets" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="Project View Popup Menu Settings Group" />
+      <path value="Mark Directory as" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
