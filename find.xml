@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="Directory '... - [lawyer]'" />
+    <option name="defaultScopeName" value="Directory '... - [lawyer]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Directory '... - [lawyer]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
