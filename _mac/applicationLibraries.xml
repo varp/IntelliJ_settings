@@ -168,6 +168,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.0.2, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/activesupport-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/activesupport-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.1.1, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/activesupport-5.1.1/lib" />
@@ -202,6 +210,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/addressable-2.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/addressable-2.5.1/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/addressable-2.5.1/tasks" />
+      </SOURCES>
+    </library>
+    <library name="airbrussh (v1.1.2, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/airbrussh-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/airbrussh-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/airbrussh-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/airbrussh-1.1.2/lib" />
       </SOURCES>
     </library>
     <library name="arel (v8.0.0, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
@@ -260,6 +278,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/autoprefixer-rails-7.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/autoprefixer-rails-7.1.0/vendor" />
+      </SOURCES>
+    </library>
+    <library name="aws-s3 (v0.6.3, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/aws-s3-0.6.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/aws-s3-0.6.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/aws-s3-0.6.3/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/aws-s3-0.6.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/aws-s3-0.6.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/aws-s3-0.6.3/support" />
       </SOURCES>
     </library>
     <library name="backports (v3.6.8, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
@@ -546,6 +576,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/byebug-9.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano (v3.7.2, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-3.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-3.7.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-3.7.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-3.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-3.7.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-3.7.2/features" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-bundler (v1.2.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-bundler-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-bundler-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano-harrow (v0.5.3, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-harrow-0.5.3/bin" />
@@ -564,6 +616,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capistrano-harrow-0.5.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/capistrano-harrow-0.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-rvm (v0.1.2, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-rvm-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-rvm-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-thin (v1.2.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-thin-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/capistrano-thin-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="capybara (v2.14.0, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
@@ -888,6 +956,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/docile-1.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20170223, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/domain_name-0.5.20170223/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/domain_name-0.5.20170223/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/domain_name-0.5.20170223/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/domain_name-0.5.20170223/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/domain_name-0.5.20170223/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/domain_name-0.5.20170223/tool" />
+      </SOURCES>
+    </library>
     <library name="erubi (v1.6.0, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/erubi-1.6.0/lib" />
@@ -1090,6 +1170,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/faraday-0.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday-cookie_jar (v0.0.6, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/faraday-cookie_jar-0.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/faraday-cookie_jar-0.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday_middleware (v0.11.0.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/faraday_middleware-0.11.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/faraday_middleware-0.11.0.1/lib" />
       </SOURCES>
     </library>
     <library name="fastri (v0.3.1.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
@@ -1320,6 +1416,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/globalid-0.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="guard (v2.14.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-2.14.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-2.14.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-2.14.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-2.14.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-2.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-2.14.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-2.14.1/images" />
+      </SOURCES>
+    </library>
+    <library name="guard-bundler (v2.1.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-bundler-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-bundler-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="guard-compat (v1.2.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-compat-1.2.1/lib" />
@@ -1336,6 +1454,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/guard-compat-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="guard-foreman (v0.0.4, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-foreman-0.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-foreman-0.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="guard-minitest (v2.4.6, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-minitest-2.4.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-minitest-2.4.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="guard-process (v1.2.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-process-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/guard-process-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="high_voltage (v3.0.0, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/high_voltage-3.0.0/app" />
@@ -1348,6 +1490,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/high_voltage-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/high_voltage-3.0.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/high_voltage-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.3, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/http-cookie-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/http-cookie-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="i18n (v0.8.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
@@ -1848,6 +1998,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@smbn/gems/libv8-3.16.14.19-x86_64-darwin-16/vendor" />
       </SOURCES>
     </library>
+    <library name="listen (v3.1.5, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/listen-3.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/listen-3.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.1.5, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/listen-3.1.5/bin" />
@@ -2222,6 +2382,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nenv-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="net-scp (v1.2.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/net-scp-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/net-scp-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-ssh (v4.1.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/net-ssh-4.1.0/lib" />
@@ -2428,12 +2596,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/nokogiri-1.8.0/suppressions" />
       </SOURCES>
     </library>
+    <library name="notiffany (v0.1.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/notiffany-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/notiffany-0.1.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/notiffany-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/notiffany-0.1.1/images" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.11.2, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/parallel-1.11.2/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/parallel-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/parser-2.4.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/parser-2.4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/parser-2.4.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/parser-2.4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="parser (v2.4.0.0, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
@@ -2444,6 +2632,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/parser-2.4.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/parser-2.4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.19.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pg-0.19.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pg-0.19.0/sample" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.4.1, RVM: ruby-2.4.1 [global]) [gem]">
@@ -2518,6 +2720,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.4, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pry-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
     <library name="public_suffix (v2.0.5, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
@@ -2990,6 +3202,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rb-fsevent-0.9.8/lib" />
       </SOURCES>
     </library>
+    <library name="rb-inotify (v0.9.8, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rb-inotify-0.9.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rb-inotify-0.9.8/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-inotify (v0.9.8, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/rb-inotify-0.9.8/lib" />
@@ -3064,6 +3284,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rollbar-2.14.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="roo (v2.7.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
     <library name="roo (v2.7.1, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/roo-2.7.1/lib" />
@@ -3072,6 +3302,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/roo-2.7.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
+    <library name="roo-xls (v1.0.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/roo-xls-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/roo-xls-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.6.0, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
@@ -3114,6 +3352,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/rspec-support-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.47.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rubocop-0.47.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rubocop-0.47.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rubocop-0.47.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rubocop-0.47.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rubocop-0.47.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rubocop-0.47.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rubocop-0.47.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/rubocop-0.47.1/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.49.1, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
@@ -3176,6 +3428,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/ruby-debug-ide-0.6.1.beta4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/ruby-debug-ide-0.6.1.beta4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/ruby-debug-ide-0.6.1.beta4/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-lint (v2.3.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/ruby-lint-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/ruby-lint-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/ruby-lint-2.3.1/checksum" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/ruby-lint-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/ruby-lint-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/ruby-lint-2.3.1/checksum" />
       </SOURCES>
     </library>
     <library name="ruby-ole (v1.2.12, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
@@ -3436,6 +3700,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/shellany-0.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="simplecov (v0.13.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/simplecov-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/simplecov-0.13.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/simplecov-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/simplecov-0.13.0/features" />
+      </SOURCES>
+    </library>
     <library name="simplecov-html (v0.10.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/simplecov-html-0.10.0/lib" />
@@ -3464,6 +3738,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.0/public" />
       </SOURCES>
     </library>
+    <library name="sinatra (v1.4.8, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/sinatra-1.4.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/sinatra-1.4.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra-contrib (v1.4.7, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/sinatra-contrib-1.4.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/sinatra-contrib-1.4.7/lib" />
+      </SOURCES>
+    </library>
     <library name="slop (v3.6.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/slop-3.6.0/lib" />
@@ -3478,6 +3768,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="spoon (v0.0.6, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/spoon-0.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/spoon-0.0.6/lib" />
       </SOURCES>
     </library>
     <library name="spreadsheet (v1.1.4, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
@@ -3628,6 +3926,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@smbn/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@smbn/gems/sqlite3-1.3.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@smbn/gems/sqlite3-1.3.13/tasks" />
+      </SOURCES>
+    </library>
+    <library name="sshkit (v1.12.0, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/sshkit-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/sshkit-1.12.0/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.2.3, RVM: ruby-2.4.1 [global]) [gem]">
