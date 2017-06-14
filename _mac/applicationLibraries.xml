@@ -816,6 +816,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/rb-inotify-0.9.8/lib" />
       </SOURCES>
     </library>
+    <library name="roo (v2.7.1, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.6.0, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/rspec-core-3.6.0/exe" />
