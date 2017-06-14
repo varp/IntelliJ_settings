@@ -254,6 +254,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/database_cleaner-1.6.1/features" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta9, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/debase-0.2.2.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/debase-0.2.2.beta9/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.9, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/debase-ruby_core_source-0.9.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/debase-ruby_core_source-0.9.9/lib" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.1.0, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/did_you_mean-1.1.0/lib" />
@@ -880,6 +898,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/rubocop-0.49.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/rubocop-0.49.1/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/rubocop-0.49.1/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta4, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/ruby-debug-ide-0.6.1.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails-bootstrap/gems/ruby-debug-ide-0.6.1.beta4/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.4.1 [rails-bootstrap]) [gem]">
