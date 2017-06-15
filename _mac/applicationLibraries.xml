@@ -5320,6 +5320,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rollbar-2.14.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="roo (v2.7.1, RVM: ruby-2.4.0 [snalog]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
     <library name="roo (v2.7.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/roo-2.7.1/lib" />
@@ -5346,6 +5356,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mosregistrator_dasreda/gems/roo-xls-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="roo-xls (v1.1.0, RVM: ruby-2.4.0 [snalog]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/roo-xls-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/roo-xls-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec (v3.6.0, RVM: ruby-2.4.0 [snalog]) [gem]">
@@ -5662,6 +5680,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ruby-ole-1.2.12/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-ole (v1.2.12.1, RVM: ruby-2.4.0 [snalog]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/ruby-ole-1.2.12.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/ruby-ole-1.2.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/ruby-ole-1.2.12.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/ruby-ole-1.2.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.4.0 [snalog]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/ruby-progressbar-1.8.1/lib" />
@@ -5804,6 +5832,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, RVM: ruby-2.4.0 [snalog]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.2.1, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
@@ -6164,6 +6202,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/spoon-0.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="spreadsheet (v1.1.4, RVM: ruby-2.4.0 [snalog]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/spreadsheet-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@snalog/gems/spreadsheet-1.1.4/lib" />
       </SOURCES>
     </library>
     <library name="spreadsheet (v1.1.4, RVM: ruby-2.4.1 [mosregistrator_dasreda]) [gem]">
