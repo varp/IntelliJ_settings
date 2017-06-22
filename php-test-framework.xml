@@ -4,7 +4,7 @@
       <tool tool_name="Codeception">
         <settings>
           <configurations>
-            <configuration_by_sdk interpreter_id="63d90dbd-1c8b-4c5b-82c1-15077519d81f" configuration_file_path="/app/tests/codeception.yml" executable_path="/home/ubuntu/.config/composer/vendor/bin/codecept" use_configuration_file="true" />
+            <configuration_by_sdk interpreter_id="63d90dbd-1c8b-4c5b-82c1-15077519d81f" configuration_file_path="/app/tests/codeception.yml" executable_path="/app/vendor/bin/codecept" use_configuration_file="true" />
           </configurations>
         </settings>
       </tool>
