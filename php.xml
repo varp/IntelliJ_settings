@@ -644,4 +644,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="63d90dbd-1c8b-4c5b-82c1-15077519d81f" />
+    </phpunit_settings>
+  </component>
 </application>
