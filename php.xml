@@ -1,12 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/Cellar/php71/7.1.4_16/bin/php" id="647db577-fe70-4f39-b113-9671b5e9c9a5" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="vagrant:///Users/vardanpro/code/lawyer/usr/bin/php" id="63d90dbd-1c8b-4c5b-82c1-15077519d81f" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/code/lawyer" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/ubuntu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7.1">
