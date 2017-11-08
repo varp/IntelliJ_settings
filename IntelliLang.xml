@@ -1,0 +1,7 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="go" injector-id="sql" pattern="//&lt;&lt;&lt;SQL" enabled="true">
+      <display-name>//&lt;&lt;&lt;SQL</display-name>
+    </injection>
+  </component>
+</application>
