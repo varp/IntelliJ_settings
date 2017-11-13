@@ -8,7 +8,7 @@
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
   <option name="CONSOLE_FONT_NAME" value="Liberation Mono" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
