@@ -5,22 +5,6 @@
     <option name="LINE_SPACING" value="0.9" />
   </component>
   <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="PHP" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:PREVIEW" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-    <pattern pattern="\bnotice\b.*" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
   </component>
 </application>
