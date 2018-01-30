@@ -31,11 +31,11 @@
       </envs>
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update $FileName$:$ProjectFileDir$/static/$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="--no-cache --update --sourcemap=none $FileName$:$ProjectFileDir$/static/$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="UNKNOWN" />
+      <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
       <option name="output" value="$ProjectFileDir$/static/$FileNameWithoutExtension$.css:$ProjectFileDir$/static/$FileNameWithoutExtension$.css.map" />
@@ -51,14 +51,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-file $ProjectFileDir$/static/$FileNameWithoutExtension$.js --source-maps" />
+      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --compact --out-file $ProjectFileDir$/static/$FileNameWithoutExtension$.js" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Babel" />
-      <option name="output" value="$FileNameWithoutExtension$.js:$FileNameWithoutExtension$.js.map" />
+      <option name="output" value="$FileNameWithoutExtension$.js" />
       <option name="outputFilters">
         <array />
       </option>
