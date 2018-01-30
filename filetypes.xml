@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="testing" type="Erlang" />
-      <mapping pattern="skip" type="PLAIN_TEXT" />
-      <mapping pattern="yii" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="Go template" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="yii" type="PLAIN_TEXT" />
+      <mapping pattern="skip" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
