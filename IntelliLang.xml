@@ -3,6 +3,10 @@
     <injection language="go" injector-id="sql" pattern="-- sql" enabled="true">
       <display-name>-- sql</display-name>
     </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>body</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("body")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
     <injection language="GoTemplate" injector-id="xml">
       <display-name>from</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("from")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
