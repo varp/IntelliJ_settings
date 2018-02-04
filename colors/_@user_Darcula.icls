@@ -4,14 +4,12 @@
     <property name="created">2017-04-26T12:10:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-12-18T14:43:07</property>
+    <property name="modified">2018-02-04T19:30:05</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.9" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Liberation Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LINE_SPACING" value="0.9" />
   <attributes>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
