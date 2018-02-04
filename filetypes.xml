@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern="testing" type="Erlang" />
+      <mapping ext="tmpl" type="Go template" />
       <mapping pattern="skip" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
