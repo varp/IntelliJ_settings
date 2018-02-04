@@ -58,7 +58,7 @@
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Babel" />
-      <option name="output" value="$FileNameWithoutExtension$.js" />
+      <option name="output" value="$ProjectFileDir$/static/$FileNameWithoutExtension$.js" />
       <option name="outputFilters">
         <array />
       </option>
