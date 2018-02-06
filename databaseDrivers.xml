@@ -39,17 +39,17 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlite.xerial">
-      <artifact name="Xerial SQLiteJDBC" use="true" version="3.16.1" />
+      <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" />
+      <artifact name="PostgreSQL" use="true" version="42.2.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
@@ -72,8 +72,6 @@
       <artifact name="MySQL Connector/J" use="true" version="5.1.40" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
-      <property name="characterEncoding" value="windows-1251" />
-      <property name="characterSetResults" value="windows-1251" />
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
