@@ -1,11 +1,5 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="EditorSelectLine">
-    <keyboard-shortcut first-keystroke="ctrl l" />
-  </action>
-  <action id="Macro.assoc_array_arrow">
-    <keyboard-shortcut first-keystroke="shift alt period" />
-  </action>
-  <action id="Macro.object_accessor">
-    <keyboard-shortcut first-keystroke="alt period" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
 </keymap>
