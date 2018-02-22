@@ -7,8 +7,11 @@
       <map>
         <entry key="CSS" value="true" />
         <entry key="HTML" value="true" />
+        <entry key="Haml" value="true" />
         <entry key="JSON" value="true" />
         <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="PHP" value="true" />
         <entry key="SASS" value="true" />
         <entry key="SCSS" value="true" />
         <entry key="TypeScript" value="true" />
@@ -18,6 +21,5 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
 </application>
