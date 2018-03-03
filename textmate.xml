@@ -10,6 +10,12 @@
     </option>
     <option name="themesMapping">
       <map>
+        <entry key="Colorful Darcula" value="Mac Classic" />
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Monokai" value="Monokai" />
+        <entry key="Solarized Dark" value="Mac Classic" />
+        <entry key="Solarized Light" value="Mac Classic" />
         <entry key="_@user_All hallow's eve" value="Darcula" />
         <entry key="_@user_Blackboard" value="Darcula" />
         <entry key="_@user_Cobalt" value="Darcula" />
