@@ -121,7 +121,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileNameWithoutAllExtensions$.browserify.js" />
+      <option name="arguments" value="-t [ babelify --presets [ env react ] ] $FileNameWithoutAllExtensions$.browserify.js" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
