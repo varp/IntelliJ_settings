@@ -132,7 +132,7 @@
       <option name="outputFilters">
         <array />
       </option>
-      <option name="outputFromStdout" value="false" />
+      <option name="outputFromStdout" value="true" />
       <option name="program" value="browserify" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="All Places" />
