@@ -1,8 +1,14 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="Git.Merge">
-    <keyboard-shortcut first-keystroke="shift meta m" />
-  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="QuickList.Go To">
+    <keyboard-shortcut first-keystroke="ctrl escape" />
+  </action>
+  <action id="QuickList.Naviagation Popup">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="QuickList.Navigate">
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
 </keymap>
