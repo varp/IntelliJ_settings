@@ -4,7 +4,7 @@
     <property name="created">2017-04-26T12:10:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2019-01-18T23:03:12</property>
+    <property name="modified">2019-01-18T23:09:13</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Liberation Mono" />
@@ -12,7 +12,7 @@
   <option name="CONSOLE_LINE_SPACING" value="0.9" />
   <colors>
     <option name="FILESTATUS_ADDED" value="fe532c" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="b0ca48" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
@@ -30,8 +30,7 @@
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="FILESTATUS_modifiedOutside" value="fe532c" />
   </colors>
   <attributes>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
