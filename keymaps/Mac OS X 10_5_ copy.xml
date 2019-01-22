@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
   <action id="RebuildSolutionAction">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="r" />
   </action>
