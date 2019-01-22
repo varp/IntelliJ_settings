@@ -1,9 +1,16 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CleanSolutionAction">
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="c" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
   <action id="RebuildSolutionAction">
     <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="r" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="ctrl q" second-keystroke="q" />
   </action>
 </keymap>
