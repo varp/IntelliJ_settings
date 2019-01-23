@@ -1,15 +1,11 @@
 <scheme name="_@user_Material Solarized Dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-01-23T02:27:21</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-23T03:49:46</property>
+    <property name="modified">2019-01-23T18:03:08</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="10483e" />
     <option name="ANNOTATIONS_COLOR" value="7899a4" />

@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
-    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -9,9 +8,8 @@
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="treeFontSizeEnabled" value="true" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="tabsHeight" value="28" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="569560f8:1686fc6db9f:-8000" />
