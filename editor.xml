@@ -6,15 +6,53 @@
     <option name="SECONDARY_FONT_FAMILY" value="Monaco" />
   </component>
   <component name="EditorSettings">
-    <option name="IS_VIRTUAL_SPACE" value="true" />
-    <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CSS" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="Haml" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="PHP" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="TypeScript" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
-    <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern pattern="\btodo\b.*" />
+    <pattern useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="8d9aa4" />
+      <option name="BACKGROUND" value="1ef3c6" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" value="3c3f41" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="\bhack\b.*">
+      <option name="BACKGROUND" value="f4456f" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3c3f41" />
+    </pattern>
+    <filter name="TODO">
+      <pattern index="0" />
+    </filter>
+    <filter name="FIXME">
+      <pattern index="1" />
+    </filter>
+    <filter name="HACK">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>
